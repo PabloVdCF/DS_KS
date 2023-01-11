@@ -4,8 +4,8 @@ Mi primera clase de GIT con KSchool
 Antes que nada recuerda identificarte para poder hacer un git clone de tu repositorio en github.com
 
 para logearte lo primero es utilizar los comandos:
-git config --global user.name "PabloVdCF"
-git config --global user.email "pab....@gmail.com"
+git config --global user.name "username"
+git config --global user.email ".........@email.com"
 
 Ahora que tenemos identificados nuestro usuario e email podemos traer el repositorio de github desde el botón Code con formato HTTPS
 
