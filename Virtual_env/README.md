@@ -3,6 +3,8 @@
 Existen varias formas de crear entornos virtuales:
 ## Para crear un entorno virtual con una versión específica de Python en Windows.
 
+> En mi caso utilizaré la versión 3.10 que será actualmente la compatible para el uso de **Kedro**
+
 1. Descargar e instalar la versión de Python 3.10 para Windows desde el sitio web oficial de Python: https://www.python.org/downloads/release/python-310/.
 
 2. Abre la terminal de línea de comandos de Windows (CMD) y ejecuta el siguiente comando para instalar la herramienta de creación de entornos virtuales "virtualenv" si aún no lo ha hecho:
